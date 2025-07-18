@@ -4,6 +4,12 @@
     "aboutRemindersMenuBarWindowTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +32,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À propos de %@"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tentang %@"
           }
         },
         "it" : {
@@ -111,6 +123,12 @@
     "appAboutButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplikaci"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -133,6 +151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À propos"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tentang"
           }
         },
         "it" : {
@@ -218,6 +242,12 @@
     "appAppearanceColorDarkModeOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tmavý režim"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -240,6 +270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mode sombre"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode gelap"
           }
         },
         "it" : {
@@ -319,6 +355,12 @@
     "appAppearanceColorLightModeOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Světlý režim"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -341,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mode clair"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode terang"
           }
         },
         "it" : {
@@ -420,6 +468,12 @@
     "appAppearanceColorSystemModeOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podle systému"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -442,6 +496,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apparence système"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tampilan sistem"
           }
         },
         "it" : {
@@ -521,6 +581,12 @@
     "appAppearanceMenu" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vzhled"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -543,6 +609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thème"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tampilan"
           }
         },
         "it" : {
@@ -628,6 +700,12 @@
     "appAppearanceMoreOpaqueOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Méně průhlednosti"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -650,6 +728,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Davantage opaque"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebih buram"
           }
         },
         "it" : {
@@ -735,6 +819,12 @@
     "appAppearanceMoreTransparentOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Více průhlednosti"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -757,6 +847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Davantage transparent"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebih transparan"
           }
         },
         "it" : {
@@ -842,6 +938,12 @@
     "appNoRemindersAccessAlertDescription" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ požaduje přistup k připomínkám pro správnou funkčnost. Pro používání %@ je třeba povolit oprávnění v Systémovém nastavení."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -864,6 +966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ doit avoir accès à Rappels pour fonctionner correctement. Accordez la permission d'utiliser %@ dans les Règlages du système"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ memerlukan akses ke Pengingat Anda agar dapat berfungsi. Berikan izin di Pengaturan Sistem untuk menggunakan %@"
           }
         },
         "it" : {
@@ -949,6 +1057,12 @@
     "appNoRemindersAccessAlertMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přístup k Připomínkám není povolen pro %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -971,6 +1085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L'accès à Rappels n'est pas activé pour %@"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akses ke Pengingat belum diaktifkan untuk %@ "
           }
         },
         "it" : {
@@ -1056,6 +1176,12 @@
     "appQuitButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukončit aplikaci"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1078,6 +1204,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quitter"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keluar"
           }
         },
         "it" : {
@@ -1163,9 +1295,15 @@
     "appVersionDescription" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verze %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Version %@"
           }
         },
@@ -1185,6 +1323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Version %@"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versi %@"
           }
         },
         "it" : {
@@ -1270,6 +1414,18 @@
     "changeReminderDueDateMenuOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termín"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fälligkeitsdatum"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1286,6 +1442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Échéance"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jatuh tempo"
           }
         },
         "it" : {
@@ -1323,16 +1485,34 @@
             "state" : "translated",
             "value" : "Termín ukončenia"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截止日期"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "到期日"
+          }
         }
       }
     },
     "changeReminderListMenuOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seznam"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Verschieben nach ..."
+            "state" : "translated",
+            "value" : "Liste"
           }
         },
         "en" : {
@@ -1351,6 +1531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lister"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daftar"
           }
         },
         "it" : {
@@ -1421,14 +1607,14 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "移动到 ..."
+            "state" : "translated",
+            "value" : "列表"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "移至 ..."
+            "state" : "translated",
+            "value" : "清單"
           }
         }
       }
@@ -1436,6 +1622,12 @@
     "changeReminderPriorityMenuOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorita"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1458,6 +1650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Priorité"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prioritas"
           }
         },
         "it" : {
@@ -1543,6 +1741,18 @@
     "editReminderDueDateNextWeekOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Příští týden"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächste Woche"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1559,6 +1769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Semaine prochaine"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minggu depan"
           }
         },
         "it" : {
@@ -1596,12 +1812,36 @@
             "state" : "translated",
             "value" : "Nasledujúci týždeň"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下周"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下週末"
+          }
         }
       }
     },
     "editReminderDueDateNoneOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádný"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ohne"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1618,6 +1858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak ada"
           }
         },
         "it" : {
@@ -1655,12 +1901,36 @@
             "state" : "translated",
             "value" : "Žiadny"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無"
+          }
         }
       }
     },
     "editReminderDueDateThisWeekendOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Příští víkend"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Wochenende"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1677,6 +1947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ce weekend"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akhir pekan ini"
           }
         },
         "it" : {
@@ -1714,12 +1990,36 @@
             "state" : "translated",
             "value" : "Cez víkend"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本周末"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這週末"
+          }
         }
       }
     },
     "editReminderDueDateTodayOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1736,6 +2036,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aujourd’hui"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini"
           }
         },
         "it" : {
@@ -1773,12 +2079,36 @@
             "state" : "translated",
             "value" : "Dnes"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天"
+          }
         }
       }
     },
     "editReminderDueDateTomorrowOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zítra"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1795,6 +2125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Demain"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Besok"
           }
         },
         "it" : {
@@ -1832,6 +2168,18 @@
             "state" : "translated",
             "value" : "Zajtra"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明天"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明天"
+          }
         }
       }
     },
@@ -1839,6 +2187,18 @@
       "comment" : "This option mimics the option in Apple Reminders that appears as lowercase.",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "seznam"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "liste"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1855,6 +2215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "liste"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "daftar"
           }
         },
         "it" : {
@@ -1892,12 +2258,30 @@
             "state" : "translated",
             "value" : "zoznam"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列表"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清單"
+          }
         }
       }
     },
     "editReminderNotesTextFieldPlaceholder" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poznámky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1920,6 +2304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Note"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catatan"
           }
         },
         "it" : {
@@ -2005,6 +2395,12 @@
     "editReminderOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upravit"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2027,6 +2423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modifier"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
           }
         },
         "it" : {
@@ -2112,6 +2514,12 @@
     "editReminderPriorityHighOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vysoká"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2134,6 +2542,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Élevée"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tinggi"
           }
         },
         "it" : {
@@ -2219,6 +2633,12 @@
     "editReminderPriorityLowOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nízká"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2241,6 +2661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faible"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rendah"
           }
         },
         "it" : {
@@ -2326,6 +2752,12 @@
     "editReminderPriorityMediumOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Střední"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2348,6 +2780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moyenne"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedang"
           }
         },
         "it" : {
@@ -2433,6 +2871,12 @@
     "editReminderPriorityNoneOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádná"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2455,6 +2899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak ada"
           }
         },
         "it" : {
@@ -2541,6 +2991,12 @@
       "comment" : "This option mimics the option in Apple Reminders that appears as lowercase.",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "priorita"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2563,6 +3019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "priorité"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prioritas"
           }
         },
         "it" : {
@@ -2648,6 +3110,12 @@
     "editReminderRemindDateOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V den události"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2670,6 +3138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un jour"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pada Hari"
           }
         },
         "it" : {
@@ -2756,6 +3230,12 @@
       "comment" : "This option mimics the option in Apple Reminders that appears as lowercase.",
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "připomenout"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2778,6 +3258,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "M'avertir"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ingatkan saya"
           }
         },
         "it" : {
@@ -2863,6 +3349,12 @@
     "editReminderRemindTimeOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V čase"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2885,6 +3377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À une heure"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pada Waktu"
           }
         },
         "it" : {
@@ -2970,6 +3468,12 @@
     "editReminderTitleTextFieldPlaceholder" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Název"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2992,6 +3496,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intitulé"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Judul"
           }
         },
         "it" : {
@@ -3077,6 +3587,12 @@
     "emptyListAllItemsCompletedMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechny položky vyřízené"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3101,10 +3617,16 @@
             "value" : "Tous les rappels sont terminés"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semua item selesai"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutti i promemoria sono stati completati"
+            "value" : "Tutti i promemoria completati"
           }
         },
         "ja" : {
@@ -3184,6 +3706,12 @@
     "emptyListNoRemindersFilterMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Změnit nastavení filtru připomínek"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3206,6 +3734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modifier les options de filtrage des rappels"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubah opsi filter pengingat"
           }
         },
         "it" : {
@@ -3291,6 +3825,12 @@
     "emptyListNoRemindersFilterTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádné připomínky k zobrazení"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3313,6 +3853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun rappel à afficher"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak ada pengingat untuk ditampilkan"
           }
         },
         "it" : {
@@ -3398,6 +3944,12 @@
     "emptyListNoRemindersMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádné připomínky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3420,6 +3972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun rappel"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak ada pengingat"
           }
         },
         "it" : {
@@ -3505,6 +4063,12 @@
     "emptyListNoUpcomingRemindersMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádné naplánované připomínky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3527,6 +4091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun rappel à venir"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak ada pengingat yang akan datang"
           }
         },
         "it" : {
@@ -3612,6 +4182,18 @@
     "filterMenuBarCountByCalendarOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrovat dle vybraného seznamu"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach ausgewählter Liste filtern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3628,6 +4210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filtrer à partir des listes séléctionneés"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter berdasarkan daftar yang dipilih"
           }
         },
         "it" : {
@@ -3664,6 +4252,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filtrovať podľa vybraných zoznamov"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按选定列表筛选"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依選取清單篩選"
           }
         }
       }
@@ -3671,6 +4271,18 @@
     "filterUpcomingRemindersByCalendarOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrovat dle vybraného seznamu"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach ausgewählter Liste filtern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3687,6 +4299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filtrer à partir des listes séléctionneés"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter berdasarkan daftar yang dipilih"
           }
         },
         "it" : {
@@ -3724,12 +4342,30 @@
             "state" : "translated",
             "value" : "Filtrovať podľa vybraných zoznamov"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按选定列表筛选"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依選取清單篩選"
+          }
         }
       }
     },
     "keyboardShortcutEnableOpenShortcutOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Povolit klávesovou zkratku k otevření %@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3752,6 +4388,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activer le raccourci clavier suivant pour afficher %@"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktifkan pintasan keyboard untuk membuka %@"
           }
         },
         "it" : {
@@ -3837,6 +4479,12 @@
     "keyboardShortcutOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesová zkratka"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3859,6 +4507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Raccourci clavier"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pintasan keyboard"
           }
         },
         "it" : {
@@ -3944,6 +4598,12 @@
     "keyboardShortcutRestoreDefaultButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obnovit výchozí"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3968,10 +4628,16 @@
             "value" : "Réinitialiser les réglages par défaut"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulihkan default"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ripristina predefinita"
+            "value" : "Ripristina default"
           }
         },
         "ja" : {
@@ -4051,6 +4717,12 @@
     "keyboardShortcutWindowTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení klávesové zkratky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4073,6 +4745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Raccourci clavier"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan pintasan keyboard"
           }
         },
         "it" : {
@@ -4158,6 +4836,12 @@
     "launchAtLoginOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spouštět po startu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4182,10 +4866,16 @@
             "value" : "Lancer au démarrage"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luncurkan saat login"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avvia all'accesso"
+            "value" : "Avvia al login"
           }
         },
         "ja" : {
@@ -4265,6 +4955,12 @@
     "menuBarCounterSettingsMenu" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Počítadlo"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4287,6 +4983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compteur de la barre de menu"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penghitung menu bar"
           }
         },
         "it" : {
@@ -4366,10 +5068,16 @@
     "menuBarIconSettingsMenu" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikona"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Menüleiste"
+            "state" : "translated",
+            "value" : "Menüleistensymbol"
           }
         },
         "en" : {
@@ -4388,6 +5096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icon de la barre de menu"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikon menu bar"
           }
         },
         "it" : {
@@ -4473,6 +5187,12 @@
     "newReminderAddDateButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidat datum"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4495,6 +5215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter une date"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambah Tanggal"
           }
         },
         "it" : {
@@ -4580,6 +5306,12 @@
     "newReminderAddTimeButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidat čas"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4602,6 +5334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter une heure"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambah Waktu"
           }
         },
         "it" : {
@@ -4687,6 +5425,12 @@
     "newReminderAutoSuggestTodayOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automaticky nabízet dnes jako datum"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4709,6 +5453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suggérer Aujourd'hui par défaut"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatis sarankan tanggal hari ini"
           }
         },
         "it" : {
@@ -4794,6 +5544,12 @@
     "newReminderCalendarSelectionToSaveHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vybrat, kde se budou nové připomínky ukládat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4816,6 +5572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sélectionnez le calendrier où les nouveaux rappels seront sauvegardés"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih dimana pengingat baru akan disimpan"
           }
         },
         "it" : {
@@ -4901,6 +5663,12 @@
     "newReminderRemoveParsedDateOption" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstranit nalezené datum z názvu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4923,6 +5691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ne pas conserver de date détectée dans l'intitulé"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus tanggal hasil penguraian dari judul"
           }
         },
         "it" : {
@@ -5008,6 +5782,12 @@
     "newReminderTextFielPlaceholder" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vytvořit novou připomínku"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5030,6 +5810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tapez un rappel et appuyez sur Entrée"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ketik sebuah pengingat dan tekan enter"
           }
         },
         "it" : {
@@ -5115,6 +5901,12 @@
     "okButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5137,6 +5929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ok"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oke"
           }
         },
         "it" : {
@@ -5222,6 +6020,12 @@
     "openSystemPreferencesButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otevřít nastavení systému"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5244,6 +6048,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouvrir les Réglages du système"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bukan Pengaturan Sistem"
           }
         },
         "it" : {
@@ -5329,6 +6139,12 @@
     "preferredLanguageMenu" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferovaný jazyk"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5351,6 +6167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Langue"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahasa pilihan"
           }
         },
         "it" : {
@@ -5436,6 +6258,12 @@
     "preferredLanguageSystemOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Použít jazyk systému"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5458,6 +6286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utiliser la langue du système"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gunakan bahasa sistem"
           }
         },
         "it" : {
@@ -5543,6 +6377,12 @@
     "reloadRemindersDataButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Načíst znovu data"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5565,6 +6405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rafraîchir les rappels"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muat ulang data"
           }
         },
         "it" : {
@@ -5650,6 +6496,36 @@
     "reminderRecurrenceDailyLabel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každé %i dny"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i dní"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Denně"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i dní"
+                }
+              }
+            }
+          }
+        },
         "de" : {
           "variations" : {
             "plural" : {
@@ -5722,13 +6598,25 @@
             }
           }
         },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Setiap %i hari"
+                }
+              }
+            }
+          }
+        },
         "it" : {
           "variations" : {
             "plural" : {
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Giornaliero"
+                  "value" : "Ogni giorno"
                 }
               },
               "other" : {
@@ -5847,12 +6735,66 @@
               }
             }
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 天"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 天"
+                }
+              }
+            }
+          }
         }
       }
     },
     "reminderRecurrenceMonthlyLabel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každé %i měsíce"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i měsíců"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Měsíčně"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i měsíců"
+                }
+              }
+            }
+          }
+        },
         "de" : {
           "variations" : {
             "plural" : {
@@ -5925,13 +6867,25 @@
             }
           }
         },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Setiap %i bulan"
+                }
+              }
+            }
+          }
+        },
         "it" : {
           "variations" : {
             "plural" : {
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Mensile"
+                  "value" : "Ogni mese"
                 }
               },
               "other" : {
@@ -6050,12 +7004,66 @@
               }
             }
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 月"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 個月"
+                }
+              }
+            }
+          }
         }
       }
     },
     "reminderRecurrenceWeeklyLabel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každé %i týdny"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i týdnů"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Týdně"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i týdnů"
+                }
+              }
+            }
+          }
+        },
         "de" : {
           "variations" : {
             "plural" : {
@@ -6128,13 +7136,25 @@
             }
           }
         },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Setiap %i minggu"
+                }
+              }
+            }
+          }
+        },
         "it" : {
           "variations" : {
             "plural" : {
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Settimanale"
+                  "value" : "Ogni settimana"
                 }
               },
               "other" : {
@@ -6253,12 +7273,66 @@
               }
             }
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 周"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 週"
+                }
+              }
+            }
+          }
         }
       }
     },
     "reminderRecurrenceYearlyLabel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každé %i roky"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i let"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ročně"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Každých %i let"
+                }
+              }
+            }
+          }
+        },
         "de" : {
           "variations" : {
             "plural" : {
@@ -6331,13 +7405,25 @@
             }
           }
         },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Setiap %i tahun"
+                }
+              }
+            }
+          }
+        },
         "it" : {
           "variations" : {
             "plural" : {
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Annuale"
+                  "value" : "Ogni anno"
                 }
               },
               "other" : {
@@ -6456,12 +7542,42 @@
               }
             }
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 年"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "每 %i 年"
+                }
+              }
+            }
+          }
         }
       }
     },
     "remindersFilterSelectionHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrovat připomínky k zobrazení"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6484,6 +7600,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filtrer les rappels à afficher"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter pengingat yang ditampilkan"
           }
         },
         "it" : {
@@ -6569,6 +7691,12 @@
     "remindersMenuBarAppAboutDescription" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ je open source software  licencovaný pod podmínkami %@."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6591,6 +7719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ est un logiciel open source sous licence %@."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ adalah perangkat lunak sumber terbuka yang dilisensikan di bawah ketentuan %@"
           }
         },
         "it" : {
@@ -6676,6 +7810,12 @@
     "remindersMenuBarGitHubAboutDescription" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vlastnosti a aktualizace k dispozici na GitHubu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6698,6 +7838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide et mises à jour disponibles sur GitHub"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitur dan pembaruan tersedia di Github"
           }
         },
         "it" : {
@@ -6783,6 +7929,12 @@
     "remindersOptionsButtonHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Možnosti pro editaci připomínky"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6805,6 +7957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Options des rappels"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opsi untuk mengedit pengingat"
           }
         },
         "it" : {
@@ -6890,6 +8048,12 @@
     "removeReminderAlertCancelButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušit"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6912,6 +8076,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Annuler"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batal"
           }
         },
         "it" : {
@@ -6997,6 +8167,12 @@
     "removeReminderAlertConfirmButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7019,6 +8195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus"
           }
         },
         "it" : {
@@ -7104,6 +8286,12 @@
     "removeReminderAlertMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tato akce smaže '%@' a nelze ji odvolat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7126,6 +8314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cette action supprimera '%@' et ne pourra pas être annulée"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aksi ini akan menghapus ‘%@’ dan tidak bisa dibatalkan"
           }
         },
         "it" : {
@@ -7211,6 +8405,12 @@
     "removeReminderAlertTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat připomínku?"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7235,10 +8435,16 @@
             "value" : "Supprimer le rappel ?"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus pengingat?"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rimuovi promemoria?"
+            "value" : "Rimuovere promemoria?"
           }
         },
         "ja" : {
@@ -7318,6 +8524,12 @@
     "removeReminderOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7340,6 +8552,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus"
           }
         },
         "it" : {
@@ -7425,6 +8643,12 @@
     "seeMoreOnGitHubButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zjistit více na GitHubu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7449,10 +8673,16 @@
             "value" : "Voir davantage sur GitHub"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lihat lebih banyak di Github"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vedi di più su GitHub"
+            "value" : "Scopri di più su GitHub"
           }
         },
         "ja" : {
@@ -7532,10 +8762,16 @@
     "selectListForSavingReminderButtonHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vybrat seznam pro vytváření nových připomínek"
+          }
+        },
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Auswählen wo die Erinnerung gespeichert wird"
+            "state" : "translated",
+            "value" : "Liste zum Speichern neuer Erinnerungen auswählen"
           }
         },
         "en" : {
@@ -7554,6 +8790,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sélectionnez la liste où les nouveaux rappels seront sauvegardés"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih daftar untuk menyimpan pengingat baru"
           }
         },
         "it" : {
@@ -7624,8 +8866,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "选择新提醒事项的储存位置"
+            "state" : "translated",
+            "value" : "选择新提醒事项的列表"
           }
         },
         "zh-Hant" : {
@@ -7639,6 +8881,12 @@
     "settingsButtonHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7661,6 +8909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan"
           }
         },
         "it" : {
@@ -7746,6 +9000,12 @@
     "showCompletedRemindersToggleButtonHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přepínač mezi zobrazením dokončených připomínek"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7768,6 +9028,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher les rappels terminés"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beralih antara menampilkan pengingat yang selesai atau tidak"
           }
         },
         "it" : {
@@ -7853,6 +9119,12 @@
     "showMenuBarAllRemindersCountOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit počet všech připomínek"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7875,6 +9147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher tous les rappels"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tampilkan semua jumlah pengingat"
           }
         },
         "it" : {
@@ -7948,6 +9226,12 @@
     "showMenuBarDueCountOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit jen po termínu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7970,6 +9254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher les rappels en retard"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tampilkan jumlah tenggat"
           }
         },
         "it" : {
@@ -8008,6 +9298,12 @@
             "value" : "Zobraziť počet po termíne"
           }
         },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示截止计数"
+          }
+        },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8019,6 +9315,12 @@
     "showMenuBarNoCountOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nezobrazovat počet"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8041,6 +9343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ne pas afficher le compteur"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jangan tampilkan jumlah"
           }
         },
         "it" : {
@@ -8114,6 +9422,12 @@
     "showMenuBarTodayCountOptionButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit jen dnešní"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8136,6 +9450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher les rappels de la journée"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tampilkan jumlah hari ini"
           }
         },
         "it" : {
@@ -8221,6 +9541,12 @@
     "upcomingRemindersAllTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vše"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8243,6 +9569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tous"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semua"
           }
         },
         "it" : {
@@ -8328,6 +9660,12 @@
     "upcomingRemindersDueTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po termínu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8352,10 +9690,16 @@
             "value" : "En retard"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jatuh Tempo"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scade"
+            "value" : "In scadenza"
           }
         },
         "ko" : {
@@ -8388,6 +9732,12 @@
             "value" : "Termín"
           }
         },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截止"
+          }
+        },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8399,6 +9749,12 @@
     "upcomingRemindersInAMonthTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Během měsíce"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8421,6 +9777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dans un mois"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dalam Sebulan"
           }
         },
         "it" : {
@@ -8506,6 +9868,12 @@
     "upcomingRemindersInAWeekTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Během týdne"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8528,6 +9896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dans une semaine"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dalam Seminggu"
           }
         },
         "it" : {
@@ -8613,6 +9987,12 @@
     "upcomingRemindersIntervalSelectionHelp" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vybrat rozsah nadcházejících připomínek k zobrazení"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8637,10 +10017,16 @@
             "value" : "Sélectionnez l'intervalle des prochains rappels à afficher"
           }
         },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih rentang pengingat mendatang yang akan ditampilkan"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modifica l'intervallo dei prossimi promemoria da mostrare"
+            "value" : "Seleziona l'intervallo dei prossimi promemoria da mostrare"
           }
         },
         "ja" : {
@@ -8720,6 +10106,12 @@
     "upcomingRemindersTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naplánováno"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8742,6 +10134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prochains rappels"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengingat yang akan datang"
           }
         },
         "it" : {
@@ -8827,6 +10225,12 @@
     "upcomingRemindersTodayTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8849,6 +10253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aujourd'hui"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari Ini"
           }
         },
         "it" : {
@@ -8926,7 +10336,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日"
+            "value" : "今天"
           }
         }
       }
@@ -8934,6 +10344,12 @@
     "updateAvailableNoticeButton" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualizace k dispozici"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8956,6 +10372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mise à jour disponible"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pembaruan tersedia"
           }
         },
         "it" : {

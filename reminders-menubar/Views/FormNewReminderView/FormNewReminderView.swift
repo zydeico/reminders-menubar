@@ -8,7 +8,10 @@ struct FormNewReminderView: View {
     
     @State var rmbReminder = RmbReminder()
     @State var isShowingInfoOptions = false
-    
+
+    @State var textFieldFocusTrigger = UUID()
+    @State var textFieldDynamicHeight: CGFloat = 0
+
     var body: some View {
         let calendarForSaving = getCalendarForSaving()
         // swiftlint:disable:next redundant_discardable_let
@@ -85,16 +88,16 @@ struct FormNewReminderView: View {
                 isShowingInfoOptions = !newValue.isEmpty
             }
 
-            // NOTE: When user starts to enter a title we re-instantiate RmbReminder to ensure the date is as expected.
+            // NOTE: When user starts to enter a title we update the suggested date to ensure it is as expected.
             if oldValue.isEmpty {
-                rmbReminder = newRmbReminder(withTitle: newValue)
+                rmbReminder.updateSuggestedDate()
             }
         }
         .onAppear {
             rmbReminder = newRmbReminder()
         }
     }
-    
+
     @ViewBuilder
     func newReminderTextFieldView() -> some View {
         VStack(alignment: .leading) {
@@ -102,11 +105,20 @@ struct FormNewReminderView: View {
                 placeholder: rmbLocalized(.newReminderTextFielPlaceholder),
                 text: $rmbReminder.title,
                 highlightedTexts: rmbReminder.highlightedTexts,
-                isInitialCharValidToAutoComplete: CalendarParser.isInitialCharValid(_:),
-                autoCompleteSuggestions: CalendarParser.autoCompleteSuggestions(_:),
-                onSubmit: createNewReminder
+                textContainerDynamicHeight: $textFieldDynamicHeight,
+                focusTrigger: $textFieldFocusTrigger,
             )
-            .modifier(FocusOnReceive(userPreferences.$remindersMenuBarOpeningEvent))
+            .onSubmit {
+                createNewReminder()
+            }
+            .autoComplete(
+                isInitialCharValid: CalendarParser.isInitialCharValid(_:),
+                suggestions: CalendarParser.autoCompleteSuggestions(_:)
+            )
+            .onChange(of: userPreferences.remindersMenuBarOpeningEvent) { _ in
+                textFieldFocusTrigger = UUID()
+            }
+            .frame(height: textFieldDynamicHeight)
 
             if isShowingInfoOptions {
                 NewReminderInfoOptionsView(
@@ -119,9 +131,11 @@ struct FormNewReminderView: View {
         }
     }
     
-    private func newRmbReminder(withTitle title: String = "") -> RmbReminder {
-        var rmbReminder = RmbReminder(isAutoSuggestingTodayForCreation: userPreferences.autoSuggestToday)
-        rmbReminder.title = title
+    private func newRmbReminder() -> RmbReminder {
+        var rmbReminder = RmbReminder()
+        if userPreferences.autoSuggestToday {
+            rmbReminder.setIsAutoSuggestingTodayForCreation()
+        }
         return rmbReminder
     }
     
@@ -190,30 +204,7 @@ struct ContrastBorderOverlay: ViewModifier {
     }
 }
 
-struct FormNewReminderView_Previews: PreviewProvider {
-    static var reminder: EKReminder {
-        let calendar = EKCalendar(for: .reminder, eventStore: .init())
-        calendar.color = .systemTeal
-        
-        let reminder = EKReminder(eventStore: .init())
-        reminder.title = "Look for awesome projects on GitHub"
-        reminder.isCompleted = false
-        reminder.calendar = calendar
-        
-        let dateComponents = Date().dateComponents(withTime: true)
-        reminder.dueDateComponents = dateComponents
-        
-        return reminder
-    }
-    
-    static var previews: some View {
-        Group {
-            ForEach(ColorScheme.allCases, id: \.self) { color in
-                FormNewReminderView(rmbReminder: RmbReminder(reminder: reminder), isShowingInfoOptions: true)
-                    .environmentObject(RemindersData())
-                    .colorScheme(color)
-                    .previewDisplayName("\(color) mode")
-            }
-        }
-    }
+#Preview {
+    FormNewReminderView()
+        .environmentObject(RemindersData())
 }
